@@ -1,0 +1,5 @@
+! C:\LonWorks\Types\User\Echelon Corporation\Examples\Examples.fmt created by Resource Editor 4.00.21
+! All Rights Reserved. Run on Tue Mar 24 10:51:33 2009
+set program_id 9F:FF:FF:00:00:00:00:00;
+set selector MANUFACTURER;
+
